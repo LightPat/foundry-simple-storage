@@ -1,4 +1,4 @@
-# Foundry Simple Storage
+# Simple Storage
 
 A beginner-friendly Solidity project built as part of the **Cyfrin Updraft Solidity Smart Contract Developer** course. This repository demonstrates core Solidity fundamentals.
 
